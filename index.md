@@ -4,5 +4,6 @@
 
 layout: home
 ---
-Testing page
-#uhuh
+Pages under construction
+
+These pages contain accompanying material and errata for the textbook "Bifurcation Analysis of Fluid Flows" which is expected to appear online in june 2023.
