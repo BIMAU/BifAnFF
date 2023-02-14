@@ -10,8 +10,10 @@ These pages contain accompanying material and errata for the textbook "Bifurcati
 
 Test
 =======
+
 Code block
 ----------
+
 Here we show a code block
 
 	cd cd
