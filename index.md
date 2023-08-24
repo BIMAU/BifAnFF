@@ -29,7 +29,7 @@ Answers to selected exercises
 --------------------
 In progress.
 
-Authors' Contact information
+Authors' contact information
 -------------------
 Prof.dr.ir. Henk A. Dijkstra  
 Institute for Marine and Atmospheric research Utrecht
