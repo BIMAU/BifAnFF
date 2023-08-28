@@ -6,6 +6,8 @@ permalink: /instructions/
 
 This page is for the maintainers of these pages.
 
+The source code of the pages can be found at [https://github.com/BIMAU/BifAnFF/tree/docs](https://github.com/BIMAU/BifAnFF/tree/docs)
+
 In general, to generate web pages one needs to define the style and define content. In github, jekyll is used to generate web pages and one can also define the style in it.
 For the content one uses a markdown language. We chose in "_config.yml" to use kramdown. The idea of a markdown language is that the ascii file also looks already structured and is
 well readable.
