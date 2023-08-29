@@ -40,7 +40,7 @@ The Netherlands
 Phone: +31-30-2535441  
 email: H.A.Dijkstra'at'uu.nl
 
-Assoc.Prof.Dr.ir. Fred W. Wubs   
+Assoc.prof.dr.ir. Fred W. Wubs   
 Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence  
 Faculty of Science and Engineering  
 University of Groningen  
