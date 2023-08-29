@@ -25,9 +25,9 @@ Errata
 -------
 So far none.
 
-Answers to selected exercises
+Hints/answers to selected exercises
 --------------------
-In progress.
+[3.6](ExercCh3/Exerc3_6.pdf)
 
 Authors' contact information
 -------------------
