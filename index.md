@@ -27,7 +27,7 @@ So far none.
 
 Hints/answers to selected exercises
 --------------------
-[3.6](ExercCh3/Exerc3_6.pdf)
+Chapter 3: [3.6](ExercCh3/Exerc3_6.pdf), [3.7](ExercCh3/Exerc3_7.pdf), [3.9](ExercCh3/Exerc3_9.pdf), [3.10](ExercCh3/Exerc3_10.pdf), [3.11](ExercCh3/Exerc3_11.pdf)
 
 Authors' contact information
 -------------------
