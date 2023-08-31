@@ -4,7 +4,7 @@
 
 layout: home
 ---
-
+ <a href="https://www.cambridge.org/core/books/bifurcation-analysis-of-fluid-flows/4DD7DA62E5C0A3B8572D1615AA9CB0FC"> <img src="boek.jpg" width=10% height=10%> </a> 
 <table>
   <tbody>  
       <td> 
@@ -25,9 +25,9 @@ Errata
 -------
 So far none.
 
-Answers to selected exercises
+Hints/answers to selected exercises
 --------------------
-In progress.
+Chapter 3: [3.6](ExercCh3/Exerc3_6.pdf), [3.7](ExercCh3/Exerc3_7.pdf), [3.9](ExercCh3/Exerc3_9.pdf), [3.10](ExercCh3/Exerc3_10.pdf), [3.11](ExercCh3/Exerc3_11.pdf)
 
 Authors' contact information
 -------------------
@@ -40,7 +40,7 @@ The Netherlands
 Phone: +31-30-2535441  
 email: H.A.Dijkstra'at'uu.nl
 
-Ass.Prof.Dr.ir. Fred W. Wubs   
+Assoc.prof.dr.ir. Fred W. Wubs   
 Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence  
 Faculty of Science and Engineering  
 University of Groningen  
