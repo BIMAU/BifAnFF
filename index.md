@@ -4,7 +4,7 @@
 
 layout: home
 ---
- <a href="https://www.cambridge.org/core/books/bifurcation-analysis-of-fluid-flows/4DD7DA62E5C0A3B8572D1615AA9CB0FC"> <img src="boek.jpg" width=10% height=10%> </a> 
+
 <table>
   <tbody>  
       <td> 
