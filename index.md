@@ -30,6 +30,7 @@ Hints/answers to selected exercises
 Chapter 3: [3.6](ExercCh3/Exerc3_6.pdf), [3.7](ExercCh3/Exerc3_7.pdf), [3.9](ExercCh3/Exerc3_9.pdf), [3.10](ExercCh3/Exerc3_10.pdf), [3.11](ExercCh3/Exerc3_11.pdf), [3.12](ExercCh3/Exerc3_12.pdf), [3.13](ExercCh3/Exerc3_13.pdf), [3.15](ExercCh3/Exerc3_15.pdf), [3.17](ExercCh3/Exerc3_17.pdf)  
 Chapter 4: [4.11](ExercCh4/Exerc4_11.pdf), [4.12](ExercCh4/Exerc4_12.pdf), [4.13](ExercCh4/Exerc4_13.pdf)
 
+
 Authors' contact information
 -------------------
 Prof.dr.ir. Henk A. Dijkstra  
