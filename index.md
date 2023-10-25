@@ -4,7 +4,7 @@
 
 layout: home
 ---
-
+<img src="https://bimau.github.io/BifAnFF/boek.jpg" width=100% height=100%>
 <table>
   <tbody>  
       <td> 
