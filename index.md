@@ -1,14 +1,14 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
-<img src="https://bimau.github.io/BifAnFF/boek.jpg" width=100% height=100%>
+
+![(https://www.cambridge.org/core/books/bifurcation-analysis-of-fluid-flows/4DD7DA62E5C0A3B8572D1615AA9CB0FC)](boek.jpg)
 <table>
   <tbody>  
       <td> 
-        <a href="https://www.cambridge.org/core/books/bifurcation-analysis-of-fluid-flows/4DD7DA62E5C0A3B8572D1615AA9CB0FC"> <img src="https://bimau.github.io/BifAnFF/boek.jpg" width=100% height=100%> </a> </td>
+        <a href="https://www.cambridge.org/core/books/bifurcation-analysis-of-fluid-flows/4DD7DA62E5C0A3B8572D1615AA9CB0FC"> <img src="https://bimau.github.io/BifAnFF/boek.jpg" width=100% height=100% /> </a> </td>
       <td valign=top>These pages contain accompanying material and errata for the textbook <a href="https://www.cambridge.org/core/books/bifurcation-analysis-of-fluid-flows/4DD7DA62E5C0A3B8572D1615AA9CB0FC">Bifurcation Analysis of Fluid Flows </a> .</td>
   </tbody>
 </table>
